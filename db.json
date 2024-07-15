@@ -1,0 +1,86 @@
+{
+  "users": [
+    {
+      "name": "Mason Parker",
+      "location": "Denver, United States",
+      "bio": "I am a visionary Graphics and UI/UX Designer, seamlessly blending artistic flair with technical expertise. With a degree in Graphic Design, I consistently deliver visually stunning and user-centric solutions, leaving an indelible mark on the digital landscape. As a trusted collaborator, I am dedicated to crafting pixel-perfect Uls and captivating graphics that elevate user experiences",
+      "designation": "Graphics & UI/UX Designer",
+      "bg": "{\"backgroundImage\":\"linear-gradient(to right,blue , white)\"}",
+      "skills": "I am efficient in various fields like tech stacks,libraries and frameworks such as HTML,CSS,JavaScript,Java,React,BootStrap,Tailwind CSS,Node JS",
+      "projects": "https://netlifyevaluation.netlify.app/",
+      "github": "https://github.com/",
+      "linkedIn": "https://in.linkedin.com/",
+      "twitter": "https://x.com/?mx=2",
+      "id": 1
+    },
+    {
+      "name": "John Doe",
+      "location": "Denver, United States",
+      "bio": "I am a visionary Graphics and UI/UX Designer, seamlessly blending artistic flair with technical expertise. With a degree in Graphic Design, I consistently deliver visually stunning and user-centric solutions, leaving an indelible mark on the digital landscape. As a trusted collaborator, I am dedicated to crafting pixel-perfect Uls and captivating graphics that elevate user experiences",
+      "designation": "Frontend Developer",
+      "bg": "{\"backgroundImage\":\"radial-gradient(white , cyan)\"}",
+      "skills": "I am efficient in various fields like tech stacks,libraries and frameworks such as HTML,CSS,JavaScript,Java,React,BootStrap,Tailwind CSS,Node JS",
+      "projects": "https://figma-project-design.netlify.app/",
+      "github": "https://github.com/",
+      "linkedIn": "https://in.linkedin.com/",
+      "twitter": "https://x.com/?mx=2",
+      "id": 2
+    },
+    {
+      "name": "Alice",
+      "location": "New York, United States",
+      "bio": "I am a visionary Graphics and UI/UX Designer, seamlessly blending artistic flair with technical expertise. With a degree in Graphic Design, I consistently deliver visually stunning and user-centric solutions, leaving an indelible mark on the digital landscape. As a trusted collaborator, I am dedicated to crafting pixel-perfect Uls and captivating graphics that elevate user experiences",
+      "designation": "Backend Developer",
+      "bg": "{\"backgroundImage\":\"radial-gradient(white , cyan)\"}",
+      "skills": "I am efficient in various fields like tech fields like Java,Node JS,MongoDB,SQL,express JS",
+      "projects": "https://figmadesigneval.netlify.app/",
+      "github": "https://github.com/",
+      "linkedIn": "https://in.linkedin.com/",
+      "twitter": "https://x.com/?mx=2",
+      "id": 3
+    },
+    {
+      "name": "Noddy",
+      "location": "New York, United States",
+      "bio": "I am a visionary Graphics and UI/UX Designer, seamlessly blending artistic flair with technical expertise. With a degree in Graphic Design, I consistently deliver visually stunning and user-centric solutions, leaving an indelible mark on the digital landscape. As a trusted collaborator, I am dedicated to crafting pixel-perfect Uls and captivating graphics that elevate user experiences",
+      "designation": "FullStack Web Developer",
+      "bg": "{\"backgroundImage\":\"linear-gradient(to right,white , pink)\"}",
+      "skills": "I am efficient in various fields like tech fields like HTML,CSS,JavaScript,Java,React,BootStrap,Tailwind CSS,,MongoDB,SQL,express JS",
+      "projects": "https://funny-cranachan-5c006f.netlify.app/",
+      "github": "https://github.com/",
+      "linkedIn": "https://in.linkedin.com/",
+      "twitter": "https://x.com/?mx=2",
+      "id": 4
+    },
+    {
+      "name": "Harvey",
+      "location": "California, United States",
+      "bio": "I am a visionary Graphics and UI/UX Designer, seamlessly blending artistic flair with technical expertise. With a degree in Graphic Design, I consistently deliver visually stunning and user-centric solutions, leaving an indelible mark on the digital landscape. As a trusted collaborator, I am dedicated to crafting pixel-perfect Uls and captivating graphics that elevate user experiences",
+      "designation": "Graphics & UI/UX Designer",
+      "bg": "{\"backgroundImage\":\"linear-gradient(to right,orange , white)\"}",
+      "skills": "",
+      "projects": "https://evaluation-blush-nine.vercel.app/",
+      "id": 5
+    },
+    {
+      "name": "Mason Per",
+      "location": "Denver, United States",
+      "bio": "I am a visionary Graphics and UI/UX Designer, seamlessly blending artistic flair with technical expertise. With a degree in Graphic Design, I consistently deliver visually stunning and user-centric solutions, leaving an indelible mark on the digital landscape. As a trusted collaborator, I am dedicated to crafting pixel-perfect Uls and captivating graphics that elevate user experiences",
+      "designation": "Graphics & UI/UX Designer",
+      "bg": "{\"backgroundImage\":\"linear-gradient(to right,pink , red)\"}",
+      "skills": "I am efficient in various fields like tech stacks,libraries and frameworks such as HTML,CSS,JavaScript,Java,React,BootStrap,Tailwind CSS,Node JS",
+      "projects": "https://netlifyevaluation.netlify.app/",
+      "id": 6
+    },
+    {
+      "name": "Mqson Parker",
+      "location": "Denver, United States",
+      "bio": "I am a visionary Graphics and UI/UX Designer, seamlessly blending artistic flair with technical expertise. With a degree in Graphic Design, I consistently deliver visually stunning and user-centric solutions, leaving an indelible mark on the digital landscape. As a trusted collaborator, I am dedicated to crafting pixel-perfect Uls and captivating graphics that elevate user experiences",
+      "designation": "Graphics & UI/UX Designer",
+      "bg": "{\"backgroundColor\":\"cyan\"}",
+      "skills": "I am efficient in various fields like tech stacks,libraries and frameworks such as HTML,CSS,JavaScript,Java,React,BootStrap,Tailwind CSS,Node JS",
+      "projects": "https://netlifyevaluation.netlify.app/",
+      "id": 7
+    }
+  ]
+}

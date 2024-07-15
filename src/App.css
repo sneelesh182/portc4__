@@ -1,0 +1,12 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 1.5rem;
+  text-align: center;
+}
+.cards{
+  border:1px solid;
+  box-sizing: border-box;
+  padding: 10px;
+  border-radius: 12px;
+}
