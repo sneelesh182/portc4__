@@ -22,7 +22,7 @@ export const saveUser=(value:UserInterface)=>{
     return async (dispatch: (arg0: { type: UserType; payload?: UserInterface[]; }) => void)=>{
             dispatch(loadingUser())
             try{
-            let res=await axios.post(`http://localhost:3000/users`,value)
+            let res=await axios.post(`https://my-server-wv9d.onrender.com/users`,value)
             dispatch(postUser(res.data))
             dispatch(showUser(res.data))
             }catch(err){
@@ -35,7 +35,7 @@ export const fetchUser=()=>{
     return async (dispatch: (arg0: { type: UserType; payload?: UserInterface[]; }) => void)=>{
             dispatch(loadingUser())
             try{
-                let res=await axios.get(`http://localhost:3000/users`)
+                let res=await axios.get(`https://my-server-wv9d.onrender.com/users`)
                     dispatch(showUser(res.data))
             }catch(err){
                 dispatch(errorUser())
